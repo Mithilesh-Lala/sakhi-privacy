@@ -1,4 +1,4 @@
-![Sakhi AI](Sakhi_AI_1024x500.png)
+![Sakhi AI](Sakhi%20AI%201024x500.png)
 
 # Sakhi AI 🌸
 
